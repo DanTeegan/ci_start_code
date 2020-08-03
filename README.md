@@ -19,7 +19,7 @@ PRIVATE-SECURED
 - Copy the key from local system to the specific repo on git-hub (ci-start-code)
 - ssh folder where the ssh keys are available
 - name the new key as my name "Daniel"
-- inside the .ssh file i pasted the following code: ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+- inside the .ssh file i pasted the following code: ```ssh-keygen -t rsa -b 4096 -C "YOURGITHUBEMAIL@EMAIL.COM"```
 - CAT displayed the key using its filename.pub
 - Copyed the key generated
 - Went to my github repo and clicked on settings
