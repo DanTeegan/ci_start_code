@@ -26,5 +26,22 @@ PRIVATE-SECURED
 - Clicked on deploy keys
 - Pasted the key into the repo
 
-# It is essential and best practise to write descriptive names for example daniel-jenkins
+## It is essential and best practise to write descriptive names for example daniel-jenkins
 - Now the secured public key from our local system has been copied to our cloud/Github
+
+## Private access key
+- This is essentially the same as using a padlock. So when accessing 
+
+##  Jenkins is an automation tool programmed in java
+- We can use Jenkins to automate any tests we need to run.
+- Using the private access key
+
+## Differance between CI and CD
+
+SOURCE --> BUILD --> TEST       PRODUCTION
+CI --------------------->       CD ------->
+
+Delivery is after the tests, we do the delivery manually
+
+Simply put, CI is the process of integrating code into a mainline code base. ... CD is about the processes that have to happen after code is integrated for app changes to be delivered to users. Those processes involving testing, staging and deploying code.
+
