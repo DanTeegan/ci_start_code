@@ -7,10 +7,10 @@
    -We have two types of repos ```Public repo```
    - Second is ```Private repo```
 
-YOUR LAPTOP - SECURED
+YOUR LAPTOP -- SECURED
 
 CI-START-CODE
-PUBLIC - NOT SECURED
+PUBLIC -- NOT SECURED
 
 CI-START-CODE
 PRIVATE-SECURED
